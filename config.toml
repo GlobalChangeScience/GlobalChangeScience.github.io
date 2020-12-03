@@ -1,4 +1,4 @@
-baseURL = "https://lgaida.github.io/mediumish-gohugo-theme-demo/"
+baseURL = "https://github.com/GlobalChangeScience/GlobalChangeScience.github.io/"
 languageCode = "en-us"
 title = "Mediumish"
 theme = "mediumish-gohugo-theme"
