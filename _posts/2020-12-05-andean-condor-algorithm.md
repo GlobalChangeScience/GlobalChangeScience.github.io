@@ -25,6 +25,14 @@ https://doi.org/10.7287/peerj.preprints.27678v1
 
 
 
+```
+{{< rawhtml >}}
+  <p class="speshal-fancy-custom">
+    This is <strong>raw HTML</strong>, inside Markdown.
+  </p>
+{{< /rawhtml >}}
+```
+
 
 
 ```html
