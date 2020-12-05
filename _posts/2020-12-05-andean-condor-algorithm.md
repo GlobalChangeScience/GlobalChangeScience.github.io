@@ -25,18 +25,20 @@ https://doi.org/10.7287/peerj.preprints.27678v1
 
 
 
+
+
 ```
-{{< rawhtml >}}
-  <p class="speshal-fancy-custom">
-    This is <strong>raw HTML</strong>, inside Markdown.
-  </p>
-{{< /rawhtml >}}
+---
+header-includes: null
+output:
+  html_document:
+    df_print: paged
+---
+
+# Altmetric badge 
+
+<div data-badge-popover="right" data-badge-type="medium-donut" data-doi="10.1038/nature.2014.14583" data-hide-no-mentions="true" class="altmetric-embed"></div>
+
+<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 ```
 
-
-
-```html
-<div data-badge-details="right" data-badge-type="1" data-doi="10.1007/s11047-018-9675-0" data-hide-no-mentions="true" class="altmetric-embed"></div>
-```
-
-<p><div data-badge-details="right" data-badge-type="1" data-doi="10.1007/s11047-018-9675-0" data-hide-no-mentions="true" class="altmetric-embed"></div></p>
