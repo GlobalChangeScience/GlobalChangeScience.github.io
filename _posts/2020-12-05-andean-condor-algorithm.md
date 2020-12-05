@@ -1,3 +1,4 @@
+<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 ---
 layout: post
 title:  "Andean Condor Algorithm"
@@ -21,14 +22,10 @@ This research is published in a journal peer-review in:
 Almonacid, B., Soto, R. Andean Condor Algorithm for Cell Formation Problems. Natural Computing, Springer 2018.
 
 https://doi.org/10.1007/s11047-018-9675-0
+<div data-badge-type="2" data-doi="https://doi.org/10.1007/s11047-018-9675-0" class="altmetric-embed"></div>
 
 Additional information can be found at:
 
 https://doi.org/10.7287/peerj.preprints.27678v1
-
-
-<div data-badge-details="right" data-badge-type="1" data-doi="10.1007/s11047-018-9675-0" data-hide-no-mentions="true" class="altmetric-embed"></div>
-
-<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
-
+<div data-badge-type="2" data-doi="https://doi.org/10.7287/peerj.preprints.27678v1" class="altmetric-embed"></div>
 
