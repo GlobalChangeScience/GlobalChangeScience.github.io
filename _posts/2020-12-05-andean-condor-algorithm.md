@@ -22,11 +22,8 @@ Almonacid, B., Soto, R. Andean Condor Algorithm for Cell Formation Problems. Nat
 
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
-[https://doi.org/10.1007/s11047-018-9675-0](https://doi.org/10.1007/s11047-018-9675-0)
-<div data-badge-type="2" data-doi="https://doi.org/10.1007/s11047-018-9675-0" class="altmetric-embed"></div>
+[https://doi.org/10.1007/s11047-018-9675-0](https://doi.org/10.1007/s11047-018-9675-0) <div data-badge-type="2" data-doi="https://doi.org/10.1007/s11047-018-9675-0" class="altmetric-embed"></div>
 
 Additional information can be found at:
-
-[https://doi.org/10.7287/peerj.preprints.27678v1](https://doi.org/10.7287/peerj.preprints.27678v1)
-<div data-badge-type="2" data-doi="https://doi.org/10.7287/peerj.preprints.27678v1" class="altmetric-embed"></div>
+[https://doi.org/10.7287/peerj.preprints.27678v1](https://doi.org/10.7287/peerj.preprints.27678v1) <div data-badge-type="2" data-doi="https://doi.org/10.7287/peerj.preprints.27678v1" class="altmetric-embed"></div>
 
