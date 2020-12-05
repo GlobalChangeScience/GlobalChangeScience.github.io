@@ -8,7 +8,6 @@ image: assets/images/11.jpg
 description: "Andean Condor Algorithm."
 featured: true
 hidden: true
-rating: 4.5
 header-includes: null
 output:
   html_document:
