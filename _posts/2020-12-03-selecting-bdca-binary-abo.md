@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "Selecting a biodiversity conservation area with a limited budget using the binary African buffalo optimisation algorithm"
-author: john
-categories: [ Jekyll, tutorial ]
-tags: [red, yellow]
+author: PhD. Boris L. Almonacid
+categories: [ Metaheuristic, Biodiversity Conservation ]
+tags: [Research, Article]
 image: assets/images/11.jpg
-description: "My review of Inception movie. Acting, plot and something else in this short description."
+description: "Selecting a biodiversity conservation area with a limited budget using the binary African buffalo optimisation algorithm."
 featured: true
 hidden: true
 rating: 4.5
@@ -17,4 +17,4 @@ The BCMCL problem is an NP-hard optimisation problem with a binary domain. For t
 
 This research is published in a journal peer-review in:
 
-Almonacid, B., Reyes-Hagemann, J., Campos-Nazer, J., & Ramos-Aguilar, J. (2017). Selecting a biodiversity conservation area with a limited budget using the binary African buffalo optimisation algorithm. IET Software, 12(2), 96-111. https://doi.org/10.1049/iet-sen.2016.0327
+Almonacid, B., Reyes-Hagemann, J., Campos-Nazer, J., & Ramos-Aguilar, J. (2017). Selecting a biodiversity conservation area with a limited budget using the binary african buffalo optimisation algorithm. IET Software, 12(2), 96-111. https://doi.org/10.1049/iet-sen.2016.0327
