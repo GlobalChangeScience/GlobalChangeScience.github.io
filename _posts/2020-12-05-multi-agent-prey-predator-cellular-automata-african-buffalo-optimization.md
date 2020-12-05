@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Multi-Agent System in a Prey–Predator Model with Cellular Automata and the African Buffalo Optimization"
-author: PhD. Boris L. Almonacid
+author: boris
 categories: [ Metaheuristic, Multi-Agent System, Prey-Predator, Cellular Automata, African Buffalo Optimisation ]
 tags: [Research, Article]
 image: assets/images/11.jpg

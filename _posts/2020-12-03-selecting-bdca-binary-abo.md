@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Selecting a biodiversity conservation area with a limited budget using the binary African buffalo optimisation algorithm"
-author: PhD. Boris L. Almonacid
+author: boris
 categories: [ Metaheuristic, Biodiversity Conservation ]
 tags: [Research, Article]
 image: assets/images/11.jpg
