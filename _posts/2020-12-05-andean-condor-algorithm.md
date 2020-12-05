@@ -1,4 +1,3 @@
-<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 ---
 layout: post
 title:  "Andean Condor Algorithm"
@@ -12,7 +11,6 @@ hidden: true
 header-includes: null
 output:
   html_document:
-
     df_print: paged
 ---
 
@@ -21,6 +19,8 @@ The metaheuristic algorithm is inspired by the Andean Condor, which is the large
 This research is published in a journal peer-review in:
 
 Almonacid, B., Soto, R. Andean Condor Algorithm for Cell Formation Problems. Natural Computing, Springer 2018.
+
+<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
 [https://doi.org/10.1007/s11047-018-9675-0] (https://doi.org/10.1007/s11047-018-9675-0)
 <div data-badge-type="2" data-doi="https://doi.org/10.1007/s11047-018-9675-0" class="altmetric-embed"></div>
